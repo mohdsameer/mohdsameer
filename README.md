@@ -12,7 +12,6 @@ I love building SaaS platforms, marketplaces, and automation tools.
 
 ![snake gif](https://raw.githubusercontent.com/mohdsameer/mohdsameer/output/dist/snake.svg)
 
-
 - [Reviewshake](https://reviewshake.com/) – SaaS for Reputation Management
 - [Pyde.ai](https://www.pyde.ai/) – AI-powerd Social Media Automation and Management
 - [CardBid](https://carbidmaroc.com/) – Car Auction Marketplace Platform
