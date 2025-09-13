@@ -7,7 +7,7 @@ I love building SaaS platforms, marketplaces, and automation tools.
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white)
 
-([<h3>Stats</h3])
+
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsameer&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsameer&layout=compact&theme=radical)
 
