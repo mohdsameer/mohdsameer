@@ -10,7 +10,7 @@ I love building SaaS platforms, marketplaces, and automation tools.
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsameer&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsameer&layout=compact&theme=radical)
 
-![snake gif](https://github.com/mohdsameer/mohdsameer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/mohdsameer/mohdsameer/output/dist/snake.svg)
 
 
 - [Reviewshake](https://reviewshake.com/) – SaaS for Reputation Management
