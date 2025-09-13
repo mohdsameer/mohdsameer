@@ -6,3 +6,15 @@ I love building SaaS platforms, marketplaces, and automation tools.
 ![Node](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white)
+
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdsameer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsameer&layout=compact&theme=radical)
+
+![snake gif](https://github.com/mohdsameer/mohdsameer/blob/output/github-contribution-grid-snake.svg)
+
+
+- [Reviewshake](https://reviewshake.com/) – SaaS for Reputation Management
+- [Pyde.ai](https://www.pyde.ai/) – AI-powerd Social Media Automation and Management
+- [CardBid](https://carbidmaroc.com/) – Car Auction Marketplace Platform
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohdsameer&color=blue)
